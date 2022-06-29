@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis/ Data Scientists
 - 🌱 I’m currently a student and doing my thesis.
 - 💞️ I’m looking for a job/freelance.
-- 📫 You can reach me by emailing me at - dubeykanishka0@gmail.com
+- 📫 You can reach me by emailing at - dubeykanishka0@gmail.com
 
 <!---
 dubeykanishka/dubeykanishka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
